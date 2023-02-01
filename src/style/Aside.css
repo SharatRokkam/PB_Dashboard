@@ -1,0 +1,52 @@
+.Aside-main-bar {
+  position: relative;
+  top: 5em;
+  left: 19.5em;
+}
+.Aside-bar {
+  background-color: #ffffff;
+  width: 15.7em;
+  height: 35em;
+  margin-left: -12px;
+  border-radius: 15px;
+  padding: 1.3em 1.2em;
+}
+.Aside-border {
+  border: 2px dashed #5c769c;
+  border-radius: 2px;
+}
+.pointer {
+  padding: 0.5em;
+  background-color: #fff9f1;
+}
+.decisionMAking {
+  padding: 15px 5px;
+  
+  background-color: #f5f9fc;
+}
+.date {
+  padding: 5px 5px;
+  background-color: #f5f9fc;
+  font-size: 13px;
+}
+.performer {
+  margin: 20px;
+}
+
+.compare-btn {
+  width: 63px;
+  height: 22px;
+  background-color: rgb(228, 79, 79);
+  color: white;
+  text-align: center;
+  border-radius: 13px;
+  font-size: 11px;
+  padding-top: 4px;
+  font-family: sans-serif;
+}
+
+.performer {
+  font-size: 12px;
+  font-family: "Times New Roman", Times, serif;
+  letter-spacing: 0.5px;
+}

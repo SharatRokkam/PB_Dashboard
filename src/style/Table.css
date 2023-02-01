@@ -1,0 +1,6 @@
+.table-container{
+    border: 2px solid azure;
+    text-align: center;
+    font-size: 10px;
+    z-index: 1;
+}
